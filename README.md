@@ -1,4 +1,4 @@
-# gec24-module-paper
+# seq2seq4gec-en
 - Code for the module paper for Grammatical Error Correction course at the University of Potsdam, summer semester'24.
 - Author mail: polina.danilovskaia@uni-potsdam.de
 

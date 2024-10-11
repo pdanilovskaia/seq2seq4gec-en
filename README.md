@@ -29,7 +29,7 @@ Even for the best of the models, there is still room for improvement in the accu
 - **Correction by model 3:** _It has been suggested that the fairies are the the_ 
 
 ## Requirements
-The code was run and tested in Google Colab, which provides an environment with all necessary libraries pre-installed.
+The code was run in Google Colab, which provides an environment with all necessary libraries pre-installed.
 
 ## Acknowledgements
 I thank Meng Li for teaching an introductory
